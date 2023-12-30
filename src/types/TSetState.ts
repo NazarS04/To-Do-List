@@ -1,0 +1,1 @@
+export type TSetState<T> = (value: T | ((state: T) => T)) => void;
