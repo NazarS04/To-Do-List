@@ -16,7 +16,7 @@ body {
 }
 
 #root {
-  min-height: 100 dvh;
+  min-height: 100dvh;
 
   font-size: 1.125rem;
   color: var(--text-white);
@@ -172,6 +172,7 @@ body {
   padding: 2px 5px;
 
   border-radius: 5px;
+  color:var(--text-dark-blue);
   background: var(--bg-white);
   cursor: pointer;
 }
